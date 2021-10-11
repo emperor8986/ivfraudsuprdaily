@@ -2,8 +2,8 @@ absl-py==0.13.0
 alabaster==0.7.12
 altair==4.1.0
 anaconda-client
-anaconda-navigator==1.9.12
-anaconda-project==0.8.3
+anaconda-navigator
+anaconda-project
 anvil-uplink==0.3.39
 argh==0.26.2
 asn1crypto==1.3.0
